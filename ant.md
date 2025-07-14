@@ -1,8 +1,8 @@
-- Lista de anivessariantes do mês reaproveitar
+- Lista de anivessariantes do mês reaproveitar ✅
 - Uma area do aluno (visualizar dados, alterar informações basicas de cadastro, fazer pagamento, verificar historico de pagamento, status de graduação )
 - Login e cadastro do aluno
-- login do professor
-- Pagina principal - Lista de chamada por modalidade
+- login do professor ✅
+- Pagina principal - Lista de chamada por modalidade ✅
 - Painel administrativo do professor- dominio completo sobre informações do aluno (principalmente informações de pagamento)
 
 Extensões (que baixei no vs code)
@@ -45,4 +45,6 @@ C:\Users\Serrano\Desktop\gojo\
 ├── README.md
 └── tsconfig.json
 
-criei a pasta dashboard - coloquei nela a lista de chamada por modalidade
+criei a pasta dashboard - coloquei nela a lista de chamada por modalidade, coloquei um sidebar para compilar o painel, lista de chamadas e anivesarios. Tambem fiz a pagina de login do professor.
+
+14-07 - coloquei os Aniversariantes do Ano;
